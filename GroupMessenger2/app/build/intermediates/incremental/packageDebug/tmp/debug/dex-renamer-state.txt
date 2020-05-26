@@ -1,0 +1,4 @@
+#Mon May 25 23:14:48 EDT 2020
+base.0=/Users/shivaleelahubli/Documents/Distributed systems/PA_2B/GroupMessenger2/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
